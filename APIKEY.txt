@@ -1,0 +1,4 @@
+API Key for health app:
+AIzaSyD7TiFPw-2hYMxaBYzD1GrpKTJRn1K4px0
+GOOGLE_API_KEY="AlzaSyDfUe-
+3YxBF3uoYfEFtuMAVQ6utdJ7Y3xk"
